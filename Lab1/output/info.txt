@@ -1,0 +1,4 @@
+Matrix size: 800x800
+Multiplications: 512000000
+Additions: 512000000
+Time: 0.4778936 seconds
