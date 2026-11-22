@@ -47,7 +47,6 @@ Lab1/
 ├── main.cpp                 — мой C++ код
 ├── generate.py              — случайные матрицы; можно указать размер
 ├── verify.py                — проверка NumPy
-├── experiments.py           — серия экспериментов, таблица и график
 ├── input/
 │   ├── inputA.txt           — матрица A (создаёт generate.py)
 │   └── inputB.txt           — матрица B (создаёт generate.py)
