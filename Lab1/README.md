@@ -54,9 +54,6 @@ Lab1/
 ├── output/
 │   ├── outputC.txt          — произведение матриц (создаёт C++)
 │   ├── info.txt             — размер, число операций, время (создаёт C++)
-│   ├── experiments.csv      — таблица экспериментов (создаёт experiments.py)
-│   ├── experiments.xlsx     — пример таблицы Excel из контрольных замеров
-│   ├── experiments.md       — Markdown-версия таблицы
 │   └── graph.png            — график времени умножения
 └── README.md
 ```
